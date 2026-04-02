@@ -1,0 +1,16 @@
+{
+  "translation": {
+    "identifier": "kjv",
+    "name": "King James Version",
+    "language": "English",
+    "language_code": "eng",
+    "license": "Public Domain"
+  },
+  "random_verse": {
+    "book_id": "NAM",
+    "book": "Nahum",
+    "chapter": 2,
+    "verse": 1,
+    "text": "He that dasheth in pieces is come up before thy face: keep the munition, watch the way, make\nthy loins strong, fortify\nthy power mightily.\n"
+  }
+}
